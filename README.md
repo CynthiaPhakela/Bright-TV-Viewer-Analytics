@@ -80,4 +80,4 @@ The analysis provides actionable recommendations to help BrightTV improve subscr
 * Project Documentation
 * README.md
 
-This version reads more like a professional GitHub project and aligns with what hiring managers typically expect in a data analytics portfolio.
+
